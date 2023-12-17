@@ -1,16 +1,14 @@
-### Hi there 👋
+Passionate senior software engineer with a love for PHP, specializing in Laravel and Symfony. Detail-oriented and results-driven, I excel in crafting innovative solutions for complex challenges.
 
-<!--
-**vasi91/vasi91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Tech Stack:**
+- Frontend: JavaScript (React / Vue / jQuery), TypeScript, CSS, Preprocessors
+- Backend: PHP
+- Database: MySQL / PostgreSQL
+- CMS: Magento, WordPress, OpenCart, Joomla, Drupal, PrestaShop
+- DevOps & SysAdmin: Hosting Platforms (cPanel / WHM / Plesk / VirtualMin), Cloud Computing (Azure DevOps / Amazon AWS / Google Cloud Platform), CI / CD (CloudFlare / Netlify)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Interests:**
+- Web development
+- Cloud computing
+- AI
+- Linux enthusiast
