@@ -12,3 +12,7 @@ Passionate senior software engineer with a love for PHP, specializing in Laravel
 - Cloud computing
 - AI
 - Linux enthusiast
+
+✉️ **Contact:**
+For any questions, feel free to contact me on my [LinkedIn profile](https://linkedin.com/in/vasileios-ampoulos).
+
